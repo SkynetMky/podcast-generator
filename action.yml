@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator MKY"
 author: "Will Liu"
 description: "Generates a fedd for a podast from a YAML file"
 runs:
